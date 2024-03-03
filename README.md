@@ -6,4 +6,4 @@ Machine Learning with Python Project : Sleeping is a common activity for all the
 
 The subject was suggested by Christophe Bécavin, Director of Indian-French Master of Computational Biology (IFMCB)
 
-This project was made by Saliou CISSE, Tom SALVADORE, Quentin CAMILLERI,Ethan ADA 
+This project was made by Saliou CISSE, Tom SALVADORE, Quentin CAMILLERI, Ethan ADA 
